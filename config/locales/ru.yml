@@ -1,0 +1,27 @@
+ru:
+  helpers:
+    actions: Действия
+    links:
+      new: Новый
+      edit: Правка
+      destroy: Удалить
+      cancel: Отмена
+      back: Назад
+      confirm: Вы уверены?
+    titles:
+      new: Новый
+      edit: Правка
+  activerecord:
+    models:
+      product: Продукт
+    attributes:
+      product:
+        id: №
+        name: Наименование
+        price: Цена
+        created_at: Созадно
+        updated_at: Обновлено
+    helpers:
+      product:
+        titles:
+          new: Новый пр
