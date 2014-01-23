@@ -1,5 +1,8 @@
-== Demo Store on Rails and Twitter Bootstrap
+== Demo Store on Rails 4 and Twitter Bootstrap
+
+Ruby 2.1.0 required.
 
 Start application:
 
-<tt>puma -p 3000</tt>
+  $ bundle install
+  $ puma -p 3000
